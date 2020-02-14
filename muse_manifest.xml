@@ -1,17 +1,17 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xeniaproject.org" resolutions="1x" timestamp="1581042002332">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xeniaproject.org" resolutions="1x" timestamp="1581656734928">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="263255012" ref="index:contact:events:about"/>
+    <file name="master_a-master.css" crc="3818323750" ref="index:contact:events:about"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:contact:events:about"/>
-    <file name="index.css" crc="464262793" ref="index"/>
-    <file name="nomq_index.css" crc="328397653" ref="index"/>
+    <file name="index.css" crc="299580862" ref="index"/>
+    <file name="nomq_index.css" crc="282744768" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="contact.css" crc="4284833167" ref="contact"/>
-    <file name="nomq_contact.css" crc="3846179517" ref="contact"/>
-    <file name="events.css" crc="4152779563" ref="events"/>
-    <file name="nomq_events.css" crc="3974232695" ref="events"/>
-    <file name="about.css" crc="87586439" ref="about"/>
-    <file name="nomq_about.css" crc="4251126648" ref="about"/>
+    <file name="contact.css" crc="72637498" ref="contact"/>
+    <file name="nomq_contact.css" crc="228843688" ref="contact"/>
+    <file name="events.css" crc="465886506" ref="events"/>
+    <file name="nomq_events.css" crc="158044040" ref="events"/>
+    <file name="about.css" crc="4066850409" ref="about"/>
+    <file name="nomq_about.css" crc="536526644" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
   <folder name="fonts">
@@ -54,9 +54,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="backpack.jpg" crc="64225013" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="arizona-feature.png" crc="4112832279" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -67,17 +64,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="raspberrypi.jpg" crc="4155773841" seo="true" ref="index">
+    <file name="raspberrypi.jpg" crc="4139043619" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="pencils.jpg" crc="3978032162" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="water.jpg" crc="3876304594" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -86,29 +78,47 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="events" alt=""/>
       <caption webpage="events" alt=""/>
       <caption webpage="events" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="backpack280x350.jpg" crc="4103257923" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="backpack297x372.jpg" crc="471726347" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="dodgeball.jpg" crc="3945394825" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
       <caption webpage="events" alt=""/>
     </file>
     <file name="dodgeball180x180.jpg" crc="63731688" seo="true" ref="events">
       <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
     </file>
     <file name="dodgeball175x175.jpg" crc="3968885246" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
       <caption webpage="events" alt=""/>
     </file>
     <file name="profile.png" crc="3339823" seo="true" ref="about">
@@ -116,9 +126,17 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
+    <file name="newfish.png" crc="3985503844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raspberrypi271x236.jpg" crc="3930671445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4072662076" seo="true" mt="1580959058916" redirect="true"/>
-  <file name="events.html" crc="4131323146" seo="true" mt="1580959404685" redirect="true"/>
-  <file name="about.html" crc="4265121475" seo="true" mt="1580959142482" redirect="true"/>
-  <file name="contact.html" crc="220321231" seo="true" mt="1580959432408" redirect="true"/>
+  <file name="index.html" crc="3775391381" seo="true" mt="1581656585102" redirect="true"/>
+  <file name="events.html" crc="468026323" seo="true" mt="1581044300070" redirect="true"/>
+  <file name="about.html" crc="3765519264" seo="true" mt="1581656682574" redirect="true"/>
+  <file name="contact.html" crc="3996343987" seo="true" mt="1581043306242" redirect="true"/>
 </manifest>
