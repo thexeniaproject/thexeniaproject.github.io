@@ -1,17 +1,17 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xeniaproject.org" resolutions="1x" timestamp="1581656734928">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xeniaproject.org" resolutions="1x" timestamp="1581715786606">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3818323750" ref="index:contact:events:about"/>
+    <file name="master_a-master.css" crc="3999892708" ref="index:contact:events:about"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:contact:events:about"/>
-    <file name="index.css" crc="299580862" ref="index"/>
-    <file name="nomq_index.css" crc="282744768" ref="index"/>
+    <file name="index.css" crc="524397678" ref="index"/>
+    <file name="nomq_index.css" crc="314256334" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="contact.css" crc="72637498" ref="contact"/>
-    <file name="nomq_contact.css" crc="228843688" ref="contact"/>
-    <file name="events.css" crc="465886506" ref="events"/>
-    <file name="nomq_events.css" crc="158044040" ref="events"/>
-    <file name="about.css" crc="4066850409" ref="about"/>
-    <file name="nomq_about.css" crc="536526644" ref="about"/>
+    <file name="contact.css" crc="367905966" ref="contact"/>
+    <file name="nomq_contact.css" crc="501881343" ref="contact"/>
+    <file name="events.css" crc="3885892794" ref="events"/>
+    <file name="nomq_events.css" crc="3791604117" ref="events"/>
+    <file name="about.css" crc="3899710285" ref="about"/>
+    <file name="nomq_about.css" crc="463167456" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
   <folder name="fonts">
@@ -21,6 +21,9 @@
     <file name="oratorstd.woff" crc="3759803969"/>
     <file name="oratorstd.eot" crc="3780735155"/>
     <file name="oratorstd.svg" crc="523729240"/>
+    <file name="avenir-lt-85-heavy.woff" crc="4255242917"/>
+    <file name="avenir-lt-85-heavy.eot" crc="4153313767"/>
+    <file name="avenir-lt-85-heavy.svg" crc="3844423317"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:events:about:contact"/>
@@ -37,7 +40,7 @@
     <file name="form-u4917.php" crc="195040069" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="2936850" ref="index"/>
+    <file name="a-master-favicon.ico" crc="2936850" ref="index:contact"/>
     <file name="blank.gif" crc="4208392903" ref="index:events:about:contact"/>
     <file name="rca.jpg" crc="3977053140" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -70,23 +73,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="xenia.png" crc="391237900" seo="true" ref="index:events:about:contact">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
     </file>
     <file name="dodgeball.jpg" crc="3945394825" seo="true" ref="events">
       <caption webpage="events" alt=""/>
@@ -134,9 +120,25 @@
     <file name="raspberrypi271x236.jpg" crc="3930671445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="9-96147_fish-png-tropical-fish-transparent-background.jpg" crc="353062278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11578_states.png" crc="3963844374" ref="index:events:about:contact"/>
+    <file name="u11578_states-r.png" crc="3963844374" ref="index:events:about:contact"/>
+    <file name="u11578_states-a.png" crc="3963844374" ref="index:events:about:contact"/>
+    <file name="u11593_states.png" crc="266514248" ref="index:events:about:contact"/>
+    <file name="u11593_states-r.png" crc="266514248" ref="index:events:about:contact"/>
+    <file name="u11593_states-a.png" crc="266514248" ref="index:events:about:contact"/>
+    <file name="u11602_states.png" crc="4291723004" ref="index:events:about:contact"/>
+    <file name="u11602_states-r.png" crc="4291723004" ref="index:events:about:contact"/>
+    <file name="u11602_states-a.png" crc="4291723004" ref="index:events:about:contact"/>
+    <file name="u121.png" crc="388658520" ref="index:events:about:contact"/>
+    <file name="u121-r.png" crc="388658520" ref="index:events:about:contact"/>
   </folder>
-  <file name="index.html" crc="3775391381" seo="true" mt="1581656585102" redirect="true"/>
-  <file name="events.html" crc="468026323" seo="true" mt="1581044300070" redirect="true"/>
-  <file name="about.html" crc="3765519264" seo="true" mt="1581656682574" redirect="true"/>
-  <file name="contact.html" crc="3996343987" seo="true" mt="1581043306242" redirect="true"/>
+  <file name="index.html" crc="4105495249" seo="true" mt="1581715683184" redirect="true"/>
+  <file name="events.html" crc="3769189040" seo="true" mt="1581715683184" redirect="true"/>
+  <file name="about.html" crc="76464560" seo="true" mt="1581715683184" redirect="true"/>
+  <file name="contact.html" crc="209438179" seo="true" mt="1581715762027" redirect="true"/>
 </manifest>
