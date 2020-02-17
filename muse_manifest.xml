@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xeniaproject.org" resolutions="1x" timestamp="1581715786606">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xeniaproject.org" resolutions="1x" timestamp="1581917187853">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3999892708" ref="index:contact:events:about"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:contact:events:about"/>
-    <file name="index.css" crc="524397678" ref="index"/>
-    <file name="nomq_index.css" crc="314256334" ref="index"/>
+    <file name="master_a-master.css" crc="507415700" ref="index:contact:about:volunteer"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:contact:about:volunteer"/>
+    <file name="index.css" crc="3998896619" ref="index"/>
+    <file name="nomq_index.css" crc="4085765072" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="contact.css" crc="367905966" ref="contact"/>
-    <file name="nomq_contact.css" crc="501881343" ref="contact"/>
-    <file name="events.css" crc="3885892794" ref="events"/>
-    <file name="nomq_events.css" crc="3791604117" ref="events"/>
-    <file name="about.css" crc="3899710285" ref="about"/>
-    <file name="nomq_about.css" crc="463167456" ref="about"/>
+    <file name="contact.css" crc="319238667" ref="contact"/>
+    <file name="nomq_contact.css" crc="456104216" ref="contact"/>
+    <file name="about.css" crc="3876791503" ref="about"/>
+    <file name="nomq_about.css" crc="3770215778" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="volunteer.css" crc="407409098" ref="volunteer"/>
+    <file name="nomq_volunteer.css" crc="261632823" ref="volunteer"/>
   </folder>
   <folder name="fonts">
     <file name="futura bold.woff" crc="54164926"/>
@@ -26,86 +26,29 @@
     <file name="avenir-lt-85-heavy.svg" crc="3844423317"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:events:about:contact"/>
-    <file name="museutils.js" crc="17924269" ref="index:events:about:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:events:about:contact"/>
-    <file name="museconfig.js" crc="144853533" ref="index:events:about:contact"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:events:about:contact"/>
-    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:events:about:contact"/>
-    <file name="require.js" crc="3861931657" ref="index:events:about:contact"/>
-    <file name="webpro.js" crc="416662029" ref="contact"/>
-    <file name="form_check.php" crc="4110044762" ref="contact"/>
-    <file name="form_throttle.php" crc="22190333" ref="contact"/>
-    <file name="form_process.php" crc="257545537" ref="contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:volunteer"/>
+    <file name="museutils.js" crc="17924269" ref="index:about:contact:volunteer"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:volunteer"/>
+    <file name="museconfig.js" crc="144853533" ref="index:about:contact:volunteer"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:about:contact:volunteer"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:about:contact:volunteer"/>
+    <file name="require.js" crc="3861931657" ref="index:about:contact:volunteer"/>
+    <file name="webpro.js" crc="416662029" ref="contact:volunteer"/>
+    <file name="form_check.php" crc="4110044762" ref="contact:volunteer"/>
+    <file name="form_throttle.php" crc="22190333" ref="contact:volunteer"/>
+    <file name="form_process.php" crc="257545537" ref="contact:volunteer"/>
     <file name="form-u4917.php" crc="195040069" ref="contact"/>
+    <file name="form-u12329.php" crc="133711954" ref="volunteer"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="2936850" ref="index:contact"/>
-    <file name="blank.gif" crc="4208392903" ref="index:events:about:contact"/>
-    <file name="rca.jpg" crc="3977053140" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="amnes.jpg" crc="4291381526" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wwf-panda-logo.jpg" crc="11862445" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="arizona-feature.png" crc="4112832279" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="basis.png" crc="405604955" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="a-master-favicon.ico" crc="2936850" ref="index:volunteer"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact:volunteer"/>
     <file name="raspberrypi.jpg" crc="4139043619" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="dodgeball.jpg" crc="3945394825" seo="true" ref="events">
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-    </file>
-    <file name="dodgeball180x180.jpg" crc="63731688" seo="true" ref="events">
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-    </file>
-    <file name="dodgeball175x175.jpg" crc="3968885246" seo="true" ref="events">
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
     </file>
     <file name="profile.png" crc="3339823" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -125,20 +68,29 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u11578_states.png" crc="3963844374" ref="index:events:about:contact"/>
-    <file name="u11578_states-r.png" crc="3963844374" ref="index:events:about:contact"/>
-    <file name="u11578_states-a.png" crc="3963844374" ref="index:events:about:contact"/>
-    <file name="u11593_states.png" crc="266514248" ref="index:events:about:contact"/>
-    <file name="u11593_states-r.png" crc="266514248" ref="index:events:about:contact"/>
-    <file name="u11593_states-a.png" crc="266514248" ref="index:events:about:contact"/>
-    <file name="u11602_states.png" crc="4291723004" ref="index:events:about:contact"/>
-    <file name="u11602_states-r.png" crc="4291723004" ref="index:events:about:contact"/>
-    <file name="u11602_states-a.png" crc="4291723004" ref="index:events:about:contact"/>
-    <file name="u121.png" crc="388658520" ref="index:events:about:contact"/>
-    <file name="u121-r.png" crc="388658520" ref="index:events:about:contact"/>
+    <file name="xenia.png" crc="4025091729" seo="true" ref="index:about:contact:volunteer">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="volunteer" alt=""/>
+      <caption webpage="volunteer" alt=""/>
+      <caption webpage="volunteer" alt=""/>
+      <caption webpage="tech--the-xenia-project" alt=""/>
+      <caption webpage="tech--the-xenia-project" alt=""/>
+      <caption webpage="tech--the-xenia-project" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4105495249" seo="true" mt="1581715683184" redirect="true"/>
-  <file name="events.html" crc="3769189040" seo="true" mt="1581715683184" redirect="true"/>
-  <file name="about.html" crc="76464560" seo="true" mt="1581715683184" redirect="true"/>
-  <file name="contact.html" crc="209438179" seo="true" mt="1581715762027" redirect="true"/>
+  <file name="index.html" crc="3955166141" seo="true" mt="1581917112131" redirect="true"/>
+  <file name="about.html" crc="4183290114" seo="true" mt="1581917112131" redirect="true"/>
+  <file name="contact.html" crc="365468648" seo="true" mt="1581917112131" redirect="true"/>
+  <file name="volunteer.html" crc="3760403995" seo="true" mt="1581917167895" redirect="true"/>
 </manifest>
