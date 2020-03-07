@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xeniaproject.org" resolutions="1x" timestamp="1583547475357">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xeniaproject.org" resolutions="1x" timestamp="1583547919745">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4226282766" ref="index:contact:about:volunteer"/>
+    <file name="master_a-master.css" crc="3894609890" ref="index:contact:about:volunteer"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:contact:about:volunteer"/>
     <file name="index.css" crc="278074545" ref="index"/>
     <file name="nomq_index.css" crc="4264323215" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="contact.css" crc="528735227" ref="contact"/>
     <file name="nomq_contact.css" crc="407195561" ref="contact"/>
-    <file name="about.css" crc="4157220140" ref="about"/>
+    <file name="about.css" crc="240704349" ref="about"/>
     <file name="nomq_about.css" crc="48039086" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
     <file name="volunteer.css" crc="129746116" ref="volunteer"/>
@@ -67,21 +67,21 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="tech--the-xenia-project" alt=""/>
       <caption webpage="tech--the-xenia-project" alt=""/>
       <caption webpage="tech--the-xenia-project" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="events" alt=""/>
       <caption webpage="events" alt=""/>
       <caption webpage="events" alt=""/>
       <caption webpage="volunteer" alt=""/>
       <caption webpage="volunteer" alt=""/>
       <caption webpage="volunteer" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="imageedit_3_4607742930.png" crc="3906116866" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -90,7 +90,7 @@
     </file>
   </folder>
   <file name="index.html" crc="72114498" seo="true" mt="1582946667166" redirect="true"/>
-  <file name="about.html" crc="331934866" seo="true" mt="1583547461438" redirect="true"/>
+  <file name="about.html" crc="3852783531" seo="true" mt="1583547907654" redirect="true"/>
   <file name="contact.html" crc="3790536009" seo="true" mt="1582946768710" redirect="true"/>
   <file name="volunteer.html" crc="3771592352" seo="true" mt="1582946667166" redirect="true"/>
 </manifest>
