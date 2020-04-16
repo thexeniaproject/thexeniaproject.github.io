@@ -1,13 +1,14 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thexeniaproject.org" resolutions="1x" timestamp="1587075617579">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thexeniaproject.org" resolutions="1x" timestamp="1587078037500">
   <folder name="assets">
     <file name="wwf.eps" crc="86404383" seo="true" mt="1587074766000"/>
+    <file name="hero-shot-33d83b8c5fa0933373dabcc9462b32a3.webp" crc="4053075200" seo="true" mt="1587075853000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="437521137" ref="index:contact:about:volunteer"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:contact:about:volunteer"/>
-    <file name="index.css" crc="12328604" ref="index"/>
-    <file name="nomq_index.css" crc="3845552542" ref="index"/>
+    <file name="index.css" crc="462228567" ref="index"/>
+    <file name="nomq_index.css" crc="3882660280" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="contact.css" crc="320774618" ref="contact"/>
     <file name="nomq_contact.css" crc="90526411" ref="contact"/>
@@ -46,21 +47,6 @@
   <folder name="images">
     <file name="a-master-favicon.ico" crc="2936850" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:contact:volunteer"/>
-    <file name="raspberrypi.jpg" crc="4139043619" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="newfish.png" crc="3985503844" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="9-96147_fish-png-tropical-fish-transparent-background.jpg" crc="353062278" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="asset-1.svg" crc="536220666" seo="true" ref="index:about:contact:volunteer">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -76,15 +62,6 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="asset 1_poster_.png" crc="17382647" ref="index"/>
-    <file name="raspberrypi271x236.jpg" crc="3930671445" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="raspberrypi275x239.jpg" crc="3782621579" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="9-96147_fish-png-tropical-fish-transparent-background270x198.jpg" crc="4110532420" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="imageedit_3_4607742930.png" crc="3906116866" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -114,8 +91,28 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="155896-cold_stone_creamery_poster_.png" crc="302997965" ref="index"/>
+    <file name="raspberry_upscaled_image_x4.jpg" crc="368662204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newfish.png" crc="3985503844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9-96147_fish-png-tropical-fish-transparent-background.jpg" crc="353062278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9-96147_fish-png-tropical-fish-transparent-background270x198.jpg" crc="4110532420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="271657665" seo="true" mt="1587075590695" redirect="true"/>
+  <file name="index.html" crc="243663941" seo="true" mt="1587078028471" redirect="true"/>
   <file name="about.html" crc="3858943403" seo="true" mt="1587074694871" redirect="true"/>
   <file name="contact.html" crc="177198663" seo="true" mt="1587074694871" redirect="true"/>
   <file name="volunteer.html" crc="280530358" seo="true" mt="1587074694871" redirect="true"/>

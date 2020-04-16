@@ -6,25 +6,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://thexeniaproject.org/images/raspberrypi.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thexeniaproject.org/images/newfish.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thexeniaproject.org/images/9-96147_fish-png-tropical-fish-transparent-background.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://thexeniaproject.org/images/asset-1.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thexeniaproject.org/images/raspberrypi271x236.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thexeniaproject.org/images/raspberrypi275x239.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thexeniaproject.org/images/9-96147_fish-png-tropical-fish-transparent-background270x198.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thexeniaproject.org/images/logo_of_the_united_states_environmental_protection_agency.svg</image:loc>
@@ -37,6 +19,18 @@
     </image:image>
     <image:image>
       <image:loc>http://thexeniaproject.org/images/155896-cold_stone_creamery.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thexeniaproject.org/images/raspberry_upscaled_image_x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thexeniaproject.org/images/newfish.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thexeniaproject.org/images/9-96147_fish-png-tropical-fish-transparent-background.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thexeniaproject.org/images/9-96147_fish-png-tropical-fish-transparent-background270x198.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -71,6 +65,12 @@
   </url>
   <url>
     <loc>http://thexeniaproject.org/assets/wwf.eps</loc>
+    <lastmod>2020-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thexeniaproject.org/assets/hero-shot-33d83b8c5fa0933373dabcc9462b32a3.webp</loc>
     <lastmod>2020-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
