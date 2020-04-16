@@ -1,72 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://xeniaproject.org/index.html</loc>
+    <loc>http://thexeniaproject.org/index.html</loc>
     <lastmod>2020-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/1200px-wwf_logosvg.png</image:loc>
+      <image:loc>http://thexeniaproject.org/images/raspberrypi.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/arizona-sitka.jpg</image:loc>
+      <image:loc>http://thexeniaproject.org/images/newfish.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/raspberrypi.jpg</image:loc>
+      <image:loc>http://thexeniaproject.org/images/9-96147_fish-png-tropical-fish-transparent-background.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/606px-logo_of_the_united_states_environmental_protection_agencysvg.png</image:loc>
+      <image:loc>http://thexeniaproject.org/images/asset-1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/cold-stone-creamery-logo-png-8.png</image:loc>
+      <image:loc>http://thexeniaproject.org/images/raspberrypi271x236.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/newfish.png</image:loc>
+      <image:loc>http://thexeniaproject.org/images/raspberrypi275x239.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/9-96147_fish-png-tropical-fish-transparent-background.jpg</image:loc>
+      <image:loc>http://thexeniaproject.org/images/9-96147_fish-png-tropical-fish-transparent-background270x198.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/asset-1.svg</image:loc>
+      <image:loc>http://thexeniaproject.org/images/logo_of_the_united_states_environmental_protection_agency.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/raspberrypi271x236.jpg</image:loc>
+      <image:loc>http://thexeniaproject.org/images/wwf.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/raspberrypi275x239.jpg</image:loc>
+      <image:loc>http://thexeniaproject.org/images/arizona-sitka-(1).svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/9-96147_fish-png-tropical-fish-transparent-background270x198.jpg</image:loc>
+      <image:loc>http://thexeniaproject.org/images/155896-cold_stone_creamery.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://xeniaproject.org/about.html</loc>
+    <loc>http://thexeniaproject.org/about.html</loc>
     <lastmod>2020-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/asset-1.svg</image:loc>
+      <image:loc>http://thexeniaproject.org/images/asset-1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/imageedit_3_4607742930.png</image:loc>
+      <image:loc>http://thexeniaproject.org/images/imageedit_3_4607742930.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://xeniaproject.org/contact.html</loc>
+    <loc>http://thexeniaproject.org/contact.html</loc>
     <lastmod>2020-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/asset-1.svg</image:loc>
+      <image:loc>http://thexeniaproject.org/images/asset-1.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://xeniaproject.org/volunteer.html</loc>
+    <loc>http://thexeniaproject.org/volunteer.html</loc>
     <lastmod>2020-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://xeniaproject.org/images/asset-1.svg</image:loc>
+      <image:loc>http://thexeniaproject.org/images/asset-1.svg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://thexeniaproject.org/assets/wwf.eps</loc>
+    <lastmod>2020-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

@@ -1,17 +1,20 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xeniaproject.org" resolutions="1x" timestamp="1587074542472">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thexeniaproject.org" resolutions="1x" timestamp="1587075617579">
+  <folder name="assets">
+    <file name="wwf.eps" crc="86404383" seo="true" mt="1587074766000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="437521137" ref="index:contact:about:volunteer"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:contact:about:volunteer"/>
-    <file name="index.css" crc="3986646495" ref="index"/>
-    <file name="nomq_index.css" crc="184743318" ref="index"/>
+    <file name="index.css" crc="12328604" ref="index"/>
+    <file name="nomq_index.css" crc="3845552542" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="contact.css" crc="145528800" ref="contact"/>
+    <file name="contact.css" crc="320774618" ref="contact"/>
     <file name="nomq_contact.css" crc="90526411" ref="contact"/>
-    <file name="about.css" crc="128061981" ref="about"/>
+    <file name="about.css" crc="199782025" ref="about"/>
     <file name="nomq_about.css" crc="4045253470" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="volunteer.css" crc="3810073776" ref="volunteer"/>
+    <file name="volunteer.css" crc="4176022567" ref="volunteer"/>
     <file name="nomq_volunteer.css" crc="3900669727" ref="volunteer"/>
   </folder>
   <folder name="fonts">
@@ -43,28 +46,8 @@
   <folder name="images">
     <file name="a-master-favicon.ico" crc="2936850" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:contact:volunteer"/>
-    <file name="1200px-wwf_logosvg.png" crc="3803421478" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="arizona-sitka.jpg" crc="3897784096" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="raspberrypi.jpg" crc="4139043619" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="606px-logo_of_the_united_states_environmental_protection_agencysvg.png" crc="3900937394" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cold-stone-creamery-logo-png-8.png" crc="4284021490" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -82,17 +65,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="volunteer" alt=""/>
       <caption webpage="volunteer" alt=""/>
       <caption webpage="volunteer" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="asset 1_poster_.png" crc="21393601" ref="index"/>
+    <file name="asset 1_poster_.png" crc="17382647" ref="index"/>
     <file name="raspberrypi271x236.jpg" crc="3930671445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -107,9 +90,33 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
+    <file name="logo_of_the_united_states_environmental_protection_agency.svg" crc="4247831932" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_of_the_united_states_environmental_protection_agency_poster_.png" crc="3989625008" ref="index"/>
+    <file name="wwf.svg" crc="4128681454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wwf_poster_.png" crc="4111117454" ref="index"/>
+    <file name="arizona-sitka-(1).svg" crc="3993055446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arizona-sitka (1)_poster_.png" crc="3900844764" ref="index"/>
+    <file name="155896-cold_stone_creamery.svg" crc="3955452276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="155896-cold_stone_creamery_poster_.png" crc="302997965" ref="index"/>
   </folder>
-  <file name="index.html" crc="345277768" seo="true" mt="1587074383178" redirect="true"/>
-  <file name="about.html" crc="4188585078" seo="true" mt="1587074383178" redirect="true"/>
-  <file name="contact.html" crc="3865257527" seo="true" mt="1587074383178" redirect="true"/>
-  <file name="volunteer.html" crc="4182761009" seo="true" mt="1587074383178" redirect="true"/>
+  <file name="index.html" crc="271657665" seo="true" mt="1587075590695" redirect="true"/>
+  <file name="about.html" crc="3858943403" seo="true" mt="1587074694871" redirect="true"/>
+  <file name="contact.html" crc="177198663" seo="true" mt="1587074694871" redirect="true"/>
+  <file name="volunteer.html" crc="280530358" seo="true" mt="1587074694871" redirect="true"/>
 </manifest>
