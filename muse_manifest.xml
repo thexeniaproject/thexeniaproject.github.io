@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thexeniaproject.org" resolutions="1x" timestamp="1590321496045">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thexeniaproject.org" resolutions="1x" timestamp="1590321628105">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="32314087" ref="contact:index:volunteer:about"/>
+    <file name="master_a-master.css" crc="4088694992" ref="contact:index:volunteer:about"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:index:volunteer:about"/>
-    <file name="contact.css" crc="3965091797" ref="contact"/>
+    <file name="contact.css" crc="275838686" ref="contact"/>
     <file name="nomq_contact.css" crc="120547032" ref="contact"/>
-    <file name="index.css" crc="4097614076" ref="index"/>
+    <file name="index.css" crc="3789947323" ref="index"/>
     <file name="nomq_index.css" crc="4155999468" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="volunteer.css" crc="166715016" ref="volunteer"/>
+    <file name="volunteer.css" crc="4091150429" ref="volunteer"/>
     <file name="nomq_volunteer.css" crc="4219460762" ref="volunteer"/>
-    <file name="about.css" crc="313510503" ref="about"/>
+    <file name="about.css" crc="226646235" ref="about"/>
     <file name="nomq_about.css" crc="3985037130" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
@@ -24,6 +24,9 @@
     <file name="oratorstd.woff" crc="3759803969"/>
     <file name="oratorstd.eot" crc="3780735155"/>
     <file name="oratorstd.svg" crc="523729240"/>
+    <file name="avenir-lt-85-heavy.woff" crc="4255242917"/>
+    <file name="avenir heavy.eot" crc="217599605"/>
+    <file name="avenir heavy.svg" crc="4252017031"/>
   </folder>
   <folder name="assets">
     <file name="wwf.eps" crc="86404383" seo="true" mt="1587074766000"/>
@@ -112,8 +115,8 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4087603409" seo="true" mt="1590319695886" redirect="true"/>
-  <file name="about.html" crc="413638727" seo="true" mt="1590319695886" redirect="true"/>
-  <file name="contact.html" crc="514247641" seo="true" mt="1590319695886" redirect="true"/>
-  <file name="volunteer.html" crc="3962040447" seo="true" mt="1590321313122" redirect="true"/>
+  <file name="index.html" crc="4147078299" seo="true" mt="1590321616730" redirect="true"/>
+  <file name="about.html" crc="172307349" seo="true" mt="1590321616730" redirect="true"/>
+  <file name="contact.html" crc="276553570" seo="true" mt="1590321616730" redirect="true"/>
+  <file name="volunteer.html" crc="352406663" seo="true" mt="1590321616730" redirect="true"/>
 </manifest>
